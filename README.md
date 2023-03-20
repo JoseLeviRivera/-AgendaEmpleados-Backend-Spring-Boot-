@@ -25,7 +25,7 @@ mvn package
 ```
 4. Ejecuta el proyecto con java
 ```
-java -jar target/ReporteTutorados-1.0-SNAPSHOT.jar
+java -jar target/*-1.0-SNAPSHOT.jar
 ```
 ## Imagénes
 ![imagen](https://github.com/JoseLeviRivera/AgendaEmpleados-Angular/blob/master/src/assets/github/img.png)
